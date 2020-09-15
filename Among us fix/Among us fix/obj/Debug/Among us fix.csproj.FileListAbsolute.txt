@@ -1,0 +1,10 @@
+C:\Users\spenc\source\repos\Among us fix\Among us fix\bin\Debug\Among us fix.exe.config
+C:\Users\spenc\source\repos\Among us fix\Among us fix\bin\Debug\Among us fix.exe
+C:\Users\spenc\source\repos\Among us fix\Among us fix\bin\Debug\Among us fix.pdb
+C:\Users\spenc\source\repos\Among us fix\Among us fix\obj\Debug\Among us fix.csprojAssemblyReference.cache
+C:\Users\spenc\source\repos\Among us fix\Among us fix\obj\Debug\Among_us_fix.Form1.resources
+C:\Users\spenc\source\repos\Among us fix\Among us fix\obj\Debug\Among_us_fix.Properties.Resources.resources
+C:\Users\spenc\source\repos\Among us fix\Among us fix\obj\Debug\Among us fix.csproj.GenerateResource.cache
+C:\Users\spenc\source\repos\Among us fix\Among us fix\obj\Debug\Among us fix.csproj.CoreCompileInputs.cache
+C:\Users\spenc\source\repos\Among us fix\Among us fix\obj\Debug\Among us fix.exe
+C:\Users\spenc\source\repos\Among us fix\Among us fix\obj\Debug\Among us fix.pdb
