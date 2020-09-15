@@ -8,6 +8,6 @@ I made this quick fix for among us to help connect you to your friends game easi
   - Random crashes
   - Unlocked framerate
 
-# [Download Here](http://www.mediafire.com/file/r1a2glcwynnrwc1/Among+Us+Lobby+Fix+(UPDATED).exe/file)
+# [Download Here](https://github.com/Richard1337/Among-Us-Lobby-Fix/releases)
 
 Fix made by Richard1337.
